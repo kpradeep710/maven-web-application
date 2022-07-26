@@ -4,23 +4,23 @@ kind: Deployment
 metadata:
   name: javawebappdeployment
   labels:
-    app: javawebapp
+    app: maven-web-application
 spec:
   replicas: 1
   strategy:
     type: Recreate
   selector:
     matchLabels:
-      app: javawebapp
+      app: maven-web-application
   template:
     metadata:
      name: javawebapppod
      labels:
-       app: javawebapp
+       app: maven-web-application
     spec:
       containers:
       - name: javawebappcontainer
-        image: ashokit/javawebapp
+        image: karthikdocker123/maven-web-application
         ports:
         - containerPort: 8080
 ---
