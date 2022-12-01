@@ -32,6 +32,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<h1>kartheek Ammisetti</h1>
+		<h1>       Cloud and DevOps Architect</h1>
 	</span>
 	<span style="font-weight: bold;">
 		kartheek software solutions, 
