@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="C:\Users\hp\Downloads\kartheek photo.jpg" alt="" width="100">
+		<img src="images/mithunlogo.jpg" alt="" width="100">
 		<h1>kartheek Ammisetti</h1>
 		<h1>       Cloud and DevOps Architect</h1>
 	</span>
