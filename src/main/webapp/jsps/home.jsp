@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to kartheek software solutions,we are going start new batch from tomorrow :: we are leading software center in hyderabad </h1>
+<h1 align="center">Welcome to kartheek software Technologies...Lean here Lead anywhere...! ,we are going start new batch from tomorrow :: we are leading software center in hyderabad </h1>
 <h1 align="center"> kartheek Software Solutions- Very Good Training center for DevOps with AWS in Ammerpet Hyderabade India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
